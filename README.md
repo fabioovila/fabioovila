@@ -8,9 +8,25 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 ---
 
 ### 🎓 Educação
-* **Faculdade:** UFRN
-* **Curso:** Tecnologia da Informação com ênfase em Desenvolvimento de Software
-* **Destaque:** Aluno do curso **CS50 (Harvard)**, onde desenvolvo projetos Web.
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://logodownload.org/wp-content/uploads/2014/10/ufrn-logo-1.png" width="100" alt="Logo UFRN" />
+    </td>
+    <td>
+      <p>
+        <strong>Faculdade:</strong> Universidade Federal do Rio Grande do Norte
+      </p>
+      <p>
+        <strong>Curso:</strong> <a href="https://www.metropoledigital.ufrn.br/portal/ensino/graduacao/bti">Tecnologia da Informação com Ênfase em Desenvolvimento de Software</a>
+      </p>
+      <p>
+        <strong>Destaque:</strong> Aluno do curso <a href="https://cs50.harvard.edu/x/"><strong>CS50 (Harvard)</strong></a>, onde desenvolvo projetos Web.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,7 +60,7 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 ### 📫 Como me encontrar
 * **LinkedIn:** https://linkedin.com/in/fabioovila
 * **E-mail:** fabioovila@gmail.com
-* **Instagram: ** https://www.instagram.com/fabioovila
+* **Instagram:** https://www.instagram.com/fabioovila
 
 ---
 
@@ -53,11 +69,9 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      **Linguagens mais utilizadas**<br />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioovila&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
     </td>
     <td align="center" width="50%">
-      **Atividade de Linhas e Commits**<br />
       <img src="https://github-readme-stats.vercel.app/api?username=fabioovila&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas Gerais" />
     </td>
   </tr>
