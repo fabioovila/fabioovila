@@ -34,7 +34,7 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[Read Later](https://github.com/fabioovila/Read-Later---Chrome-Extension)** | Extensão de Chrome para gerenciar links inspirada no YouTube. | `JavaScript`, `HTML`, `CSS`, `Chrome API` |
+| **[Read Later](https://github.com/fabioovila/Read-Later---Chrome-Extension)** | Extensão de Chrome para salvar links, inspirada no "Assistir Mais Tarde" do YouTube. | `JavaScript`, `HTML`, `CSS`, `Chrome API` |
 | **[Sistema de Gestão CRUD](https://github.com/fabioovila/sistema-gerenciamento-simples)** | Sistema robusto de estoque e vendas aplicando POO pura. | `C++`, `Makefile`, `Lógica de Repositórios` |
 
 ---
