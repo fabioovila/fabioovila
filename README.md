@@ -34,14 +34,14 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[Read Later](https://github.com/fabioovila/Read-Later---Chrome-Extension)** | Extensão de Chrome para salvar links, inspirada no "Assistir Mais Tarde" do YouTube. | `JavaScript`, `HTML`, `CSS`, `Chrome API` |
-| **[Sistema de Gestão CRUD](https://github.com/fabioovila/sistema-gerenciamento-simples)** | Sistema robusto de estoque e vendas aplicando POO pura. | `C++`, `Makefile`, `Lógica de Repositórios` |
+| **[Read Later](https://github.com/fabioovila/Read-Later---Chrome-Extension)** | Extensão do Chrome para salvar links para mais tarde. | `JavaScript`, `HTML`, `CSS`, `Chrome API` |
+| **[Sistema de Gestão CRUD](https://github.com/fabioovila/sistema-gerenciamento-simples)** | Sistema de estoque e vendas aplicando POO pura. | `C++`, `Makefile`, `Lógica de Repositórios` |
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas que utilizo
 
-* **Languages**
+* **Linguagens**
   <br><br>
     ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
