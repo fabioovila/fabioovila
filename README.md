@@ -57,7 +57,7 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Como me encontrar:
 * **LinkedIn:** https://linkedin.com/in/fabioovila
 * **E-mail:** fabioovila@gmail.com
 * **Instagram:** https://www.instagram.com/fabioovila
