@@ -47,4 +47,4 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabioovila&show_icons=true&theme=radical)
