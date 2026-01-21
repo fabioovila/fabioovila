@@ -30,7 +30,7 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Projetos que desenvolvi
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
@@ -39,7 +39,7 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas que utilizo
 
 * **Languages**
   <br><br>
