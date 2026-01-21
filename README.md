@@ -16,7 +16,7 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
     </td>
     <td>
       <p>
-        <strong>Faculdade:</strong> Universidade Federal do Rio Grande do Norte
+        <strong>Faculdade:</strong> Universidade Federal do Rio Grande do Norte (UFRN)
       </p>
       <p>
         <strong>Curso:</strong> <a href="https://www.metropoledigital.ufrn.br/portal/ensino/graduacao/bti">Tecnologia da Informação com Ênfase em Desenvolvimento de Software</a>
