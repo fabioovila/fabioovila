@@ -22,7 +22,7 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
         <strong>Curso:</strong> <a href="https://www.metropoledigital.ufrn.br/portal/ensino/graduacao/bti">Tecnologia da Informação com Ênfase em Desenvolvimento de Software</a>
       </p>
       <p>
-        <strong>Destaque:</strong> Aluno do <a href="https://cs50.harvard.edu/x/"><strong>CS50 (Harvard)</strong></a>. No momento, estou matriculado no CS50W, curso focado em WebDev.
+        <strong>Extracurricular:</strong> Aluno do <a href="https://cs50.harvard.edu/x/"><strong>CS50 (Harvard)</strong></a>. No momento, estou matriculado no CS50W, curso focado em WebDev.
       </p>
     </td>
   </tr>
