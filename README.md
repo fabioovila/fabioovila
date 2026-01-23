@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre Mim
 Sou um desenvolvedor em formação, apaixonado por resolver problemas através do código. 
-Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar soluções eficientes e bem estruturadas com o foco de conseguir um primeiro estágio ou bolsa como dev.
+Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar soluções eficientes e bem estruturadas unindo o conhecimento de programação com o de resolução de problemas.
 
 
 ---
