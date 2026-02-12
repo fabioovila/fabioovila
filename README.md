@@ -1,11 +1,11 @@
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 Sou um desenvolvedor em formação, apaixonado por resolver problemas através do código. 
 Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar soluções eficientes e bem estruturadas unindo o conhecimento de programação com o de resolução de problemas.
 
 
 ---
 
-### 🎓 Educação
+### Educação
 
 <table>
   <tr>
@@ -28,7 +28,7 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 
 ---
 
-### 🚀 Projetos que desenvolvi:
+### Projetos que desenvolvi:
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas que utilizo:
+### Tecnologias e Ferramentas que utilizo:
 
 * **Linguagens**
   <br><br>
@@ -55,7 +55,7 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 
 ---
 
-### 📫 Como me encontrar:
+### Como me encontrar:
 * **LinkedIn:** https://linkedin.com/in/fabioovila
 * **E-mail:** fabioovila@gmail.com
 * **Instagram:** https://www.instagram.com/fabioovila
