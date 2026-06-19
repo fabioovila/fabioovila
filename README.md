@@ -20,7 +20,7 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
         <strong>Curso:</strong> <a href="https://www.metropoledigital.ufrn.br/portal/ensino/graduacao/bti">Tecnologia da Informação com Ênfase em Desenvolvimento de Software</a>
       </p>
       <p>
-        <strong>Extracurricular:</strong> Aluno do <a href="https://cs50.harvard.edu/x/"><strong>CS50 (Harvard)</strong></a>. No momento, estou fazendo um curso de React JS na Udemy.
+        <strong>Extracurricular:</strong> Aluno do <a href="https://cs50.harvard.edu/x/"><strong>CS50 (Harvard)</strong></a>. No momento, estou o CS50P, curso voltado ao ensino da linguagem Python.
       </p>
     </td>
   </tr>
