@@ -2,6 +2,12 @@
 Sou um desenvolvedor em formação, apaixonado por resolver problemas através do código. 
 Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar soluções eficientes e bem estruturadas unindo o conhecimento de programação com o de resolução de problemas.
 
+---
+
+### Como me encontrar:
+* **LinkedIn:** https://linkedin.com/in/fabioovila
+* **E-mail:** fabioovila@gmail.com
+* **Instagram:** https://www.instagram.com/fabioovila
 
 ---
 
@@ -52,13 +58,6 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### Como me encontrar:
-* **LinkedIn:** https://linkedin.com/in/fabioovila
-* **E-mail:** fabioovila@gmail.com
-* **Instagram:** https://www.instagram.com/fabioovila
 
 ---
 
