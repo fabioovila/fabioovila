@@ -1,4 +1,4 @@
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 Sou graduando em Tecnologia da Informação com foco em engenharia de software e desenvolvimento web. Busco construir aplicações eficientes, com código limpo e foco na experiência do usuário (UX/UI). 
 
 Minhas principais frentes de estudo envolvem:
@@ -8,7 +8,7 @@ Minhas principais frentes de estudo envolvem:
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 * **Linguagens e Frontend**
   <br>
@@ -26,7 +26,7 @@ Minhas principais frentes de estudo envolvem:
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Visão Geral | Abordagem Técnica | Stack |
 | :--- | :--- | :--- | :--- |
@@ -35,7 +35,7 @@ Minhas principais frentes de estudo envolvem:
 
 ---
 
-### 🎓 Educação & Certificações
+### Educação & Certificações
 
 <table>
   <tr>
@@ -58,7 +58,7 @@ Minhas principais frentes de estudo envolvem:
 
 ---
 
-### 📬 Como me encontrar:
+### Como me encontrar:
 
 * **LinkedIn:** [linkedin.com/in/fabioovila](https://linkedin.com/in/fabioovila)
 * **E-mail:** fabioovila@gmail.com
