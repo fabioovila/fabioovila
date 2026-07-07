@@ -58,14 +58,6 @@ Minhas principais frentes de estudo envolvem:
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioovila&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
 ### 📬 Como me encontrar:
 
 * **LinkedIn:** [linkedin.com/in/fabioovila](https://linkedin.com/in/fabioovila)
