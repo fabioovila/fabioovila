@@ -1,12 +1,10 @@
-## Olá, eu sou o Fábio Vila! 👋
-
 ### 👨‍💻 Sobre Mim
 Sou graduando em Tecnologia da Informação com foco em engenharia de software e desenvolvimento web. Busco construir aplicações eficientes, com código limpo e foco na experiência do usuário (UX/UI). 
 
-Para quem é da área técnica, minhas principais frentes de estudo envolvem:
+Minhas principais frentes de estudo envolvem:
 * **Frontend:** Manipulação eficiente do DOM, desenvolvimento e arquitetura de Single Page Applications (SPAs) e integração com APIs de navegadores.
 * **Backend & Dados:** Fundamentos de web services, desenvolvimento com arquitetura MVC (Flask) e modelagem de dados relacional (SQL).
-* **Fundamentos:** Sólida base em lógica, algoritmos e estruturas de dados complexas através de C/C++.
+* **Fundamentos:** Sólida base em lógica, algoritmos e estruturas de dados complexas através de C/C++, Python e JavaScript.
 
 ---
 
@@ -30,7 +28,7 @@ Para quem é da área técnica, minhas principais frentes de estudo envolvem:
 
 ### 🚀 Projetos em Destaque
 
-| Projeto | Visão Geral (Para Recrutadores) | Abordagem Técnica (Para Devs) | Stack |
+| Projeto | Visão Geral | Abordagem Técnica | Stack |
 | :--- | :--- | :--- | :--- |
 | **[Read Later](https://github.com/fabioovila/Read-Later---Chrome-Extension)** | Extensão de produtividade para o Google Chrome que permite salvar e gerenciar links para leitura posterior de forma rápida. | Manipulação assíncrona do DOM, persistência de dados local e integração direta com o ciclo de vida da **Chrome Extension API**. | `JavaScript`, `Chrome API`, `HTML5`, `CSS3` |
 | **[LinkDrive](https://github.com/fabioovila/LinkDrive)** | Evolução do *Read Later*, funcionando como um ecossistema completo ("drive") para categorização, armazenamento e organização de links. | Desenvolvimento focado na modularização de scripts em Vanilla JS, gerenciamento de estado da aplicação no client-side e design responsivo nativo. | `JavaScript (ES6+)`, `HTML5`, `CSS3` |
@@ -51,8 +49,8 @@ Para quem é da área técnica, minhas principais frentes de estudo envolvem:
       </p>
       <p>
         <strong>Educação Complementar:</strong> <a href="https://cs50.harvard.edu/x/"><strong>CS50x (Harvard University)</strong></a><br>
-        • Introdução à Ciência da Computação (Algoritmos, Estruturas de Dados, Memória e C).<br>
-        • Atualmente cursando o **CS50P** (focado em desenvolvimento estruturado e testes em Python).
+        • Introdução à Ciência da Computação (Algoritmos, Estruturas de Dados, Memória, Banco de Dados, SQL, Desenvolvimento Web).<br>
+        • Atualmente cursando o **CS50P** (Focado em desenvolvimento estruturado e testes em Python).
       </p>
     </td>
   </tr>
