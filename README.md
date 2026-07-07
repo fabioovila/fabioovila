@@ -1,32 +1,58 @@
-### Sobre Mim
-Sou um desenvolvedor em formação, apaixonado por resolver problemas através do código. 
-Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar soluções eficientes e bem estruturadas unindo o conhecimento de programação com o de resolução de problemas.
+## Olá, eu sou o Fábio Vila! 👋
+
+### 👨‍💻 Sobre Mim
+Sou graduando em Tecnologia da Informação com foco em engenharia de software e desenvolvimento web. Busco construir aplicações eficientes, com código limpo e foco na experiência do usuário (UX/UI). 
+
+Para quem é da área técnica, minhas principais frentes de estudo envolvem:
+* **Frontend:** Manipulação eficiente do DOM, desenvolvimento e arquitetura de Single Page Applications (SPAs) e integração com APIs de navegadores.
+* **Backend & Dados:** Fundamentos de web services, desenvolvimento com arquitetura MVC (Flask) e modelagem de dados relacional (SQL).
+* **Fundamentos:** Sólida base em lógica, algoritmos e estruturas de dados complexas através de C/C++.
 
 ---
 
-### Como me encontrar:
-* **LinkedIn:** https://linkedin.com/in/fabioovila
-* **E-mail:** fabioovila@gmail.com
-* **Instagram:** https://www.instagram.com/fabioovila
+### 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens e Frontend**
+  <br>
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+* **Back-end & Banco de Dados (Estudando no momento)**
+  <br>
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&theme=dark)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### Educação
+### 🚀 Projetos em Destaque
+
+| Projeto | Visão Geral (Para Recrutadores) | Abordagem Técnica (Para Devs) | Stack |
+| :--- | :--- | :--- | :--- |
+| **[Read Later](https://github.com/fabioovila/Read-Later---Chrome-Extension)** | Extensão de produtividade para o Google Chrome que permite salvar e gerenciar links para leitura posterior de forma rápida. | Manipulação assíncrona do DOM, persistência de dados local e integração direta com o ciclo de vida da **Chrome Extension API**. | `JavaScript`, `Chrome API`, `HTML5`, `CSS3` |
+| **[LinkDrive](https://github.com/fabioovila/LinkDrive)** | Evolução do *Read Later*, funcionando como um ecossistema completo ("drive") para categorização, armazenamento e organização de links. | Desenvolvimento focado na modularização de scripts em Vanilla JS, gerenciamento de estado da aplicação no client-side e design responsivo nativo. | `JavaScript (ES6+)`, `HTML5`, `CSS3` |
+
+---
+
+### 🎓 Educação & Certificações
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="logoUFRN.png" />
+    <td align="center" width="140">
+      <img src="logoUFRN.png" alt="UFRN Logo" width="100"/>
     </td>
     <td>
       <p>
-        <strong>Faculdade:</strong> Universidade Federal do Rio Grande do Norte <a href="https://www.ufrn.br/">(UFRN)</a>
+        <strong>Graduação:</strong> Universidade Federal do Rio Grande do Norte <a href="https://www.ufrn.br/">(UFRN)</a><br>
+        • Bacharelado em Tecnologia da Informação (Ênfase em Desenvolvimento de Software)
       </p>
       <p>
-        <strong>Curso:</strong> <a href="https://www.metropoledigital.ufrn.br/portal/ensino/graduacao/bti">Tecnologia da Informação com Ênfase em Desenvolvimento de Software</a>
-      </p>
-      <p>
-        <strong>Extracurricular:</strong> Aluno do <a href="https://cs50.harvard.edu/x/"><strong>CS50 (Harvard)</strong></a>. No momento, estou cursando o CS50P, curso voltado ao ensino da linguagem Python.
+        <strong>Educação Complementar:</strong> <a href="https://cs50.harvard.edu/x/"><strong>CS50x (Harvard University)</strong></a><br>
+        • Introdução à Ciência da Computação (Algoritmos, Estruturas de Dados, Memória e C).<br>
+        • Atualmente cursando o **CS50P** (focado em desenvolvimento estruturado e testes em Python).
       </p>
     </td>
   </tr>
@@ -34,38 +60,16 @@ Atualmente, foco meus estudos em desenvolvimento web, buscando sempre criar solu
 
 ---
 
-### Projetos que desenvolvi:
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **[Read Later](https://github.com/fabioovila/Read-Later---Chrome-Extension)** | Extensão do Chrome para salvar links para mais tarde. | `JavaScript`, `HTML`, `CSS`, `Chrome API` |
-| **[LinkDrive](https://[github.com/fabioovila](https://github.com/AndreMattheus/LinkDrive))** | Desenvolvido para uma disciplina da faculdade como uma evolução do *Read Later*, funcionando como um "drive" completo para armazenamento e organização de links. | `JavaScript`, `HTML`, `CSS` |
-
----
-
-### Tecnologias e Ferramentas que utilizo:
-
-* **Linguagens**
-  <br><br>
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-* **Estudando no momento:**
-  <br><br>
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
 ### 📊 Estatísticas do GitHub
-<br>
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioovila&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-    </td>
-    <td
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioovila&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 📬 Como me encontrar:
+
+* **LinkedIn:** [linkedin.com/in/fabioovila](https://linkedin.com/in/fabioovila)
+* **E-mail:** fabioovila@gmail.com
+* **Instagram:** [@fabioovila](https://www.instagram.com/fabioovila)
