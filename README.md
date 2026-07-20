@@ -44,7 +44,7 @@ Minhas principais frentes de estudo envolvem:
     </td>
     <td>
       <p>
-        <strong>Graduação:</strong> Universidade Federal do Rio Grande do Norte <a href="https://www.ufrn.br/">(UFRN)</a><br>
+        <strong>Graduação em andamento:</strong> Universidade Federal do Rio Grande do Norte <a href="https://www.ufrn.br/">(UFRN)</a><br>
         • Bacharelado em Tecnologia da Informação (Ênfase em Desenvolvimento de Software)
       </p>
       <p>
