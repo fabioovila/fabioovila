@@ -48,9 +48,9 @@ Minhas principais frentes de estudo envolvem:
         • Bacharelado em Tecnologia da Informação (Ênfase em Desenvolvimento de Software)
       </p>
       <p>
-        <strong>Educação Complementar:</strong> <a href="https://cs50.harvard.edu/x/"><strong>CS50x (Harvard University)</strong></a><br>
-        • Introdução à Ciência da Computação (Algoritmos, Estruturas de Dados, Memória, Banco de Dados, SQL, Desenvolvimento Web).<br>
-        • Atualmente cursando o <a href="https://cs50.harvard.edu/python/"><strong>CS50P (Harvard University)</strong></a> (Focado em desenvolvimento estruturado e testes em Python).
+        <strong>Educação Complementar</strong><br>
+        • Introdução à Ciência da Computação (<a href="https://cs50.harvard.edu/x/"><strong>CS50x (Harvard University)</strong></a>) (Algoritmos, Estruturas de Dados, Memória, Banco de Dados, SQL, Desenvolvimento Web).<br>
+        • Introdução à Programação com Python <a href="https://cs50.harvard.edu/python/"><strong>CS50P (Harvard University)</strong></a> (Lógica de Programação, Exceções, Libraries, Manipulação de Arquivos, Expressões Regulares, e Programação Orientada a Objetos).
       </p>
     </td>
   </tr>
