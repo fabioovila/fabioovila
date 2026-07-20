@@ -118,7 +118,7 @@ Extensão de produtividade para Google Chrome que simplifica o salvamento e gere
   <tr height="20"></tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/en/7/78/Harvard_shield.svg" alt="Harvard Logo" width="90"/>
+      <img src="https://logospng.org/download/harvard-university/logo-harvard-university-512.png" alt="Harvard Logo" width="90"/>
     </td>
     <td>
       <strong>🎖️ Certificações Harvard University</strong>
