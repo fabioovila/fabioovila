@@ -49,8 +49,8 @@ Minhas principais frentes de estudo envolvem:
       </p>
       <p>
         <strong>Educação Complementar</strong><br>
-        • Introdução à Ciência da Computação (<a href="https://cs50.harvard.edu/x/"><strong>CS50x (Harvard University)</strong></a>) (Algoritmos, Estruturas de Dados, Memória, Banco de Dados, SQL, Desenvolvimento Web).<br>
-        • Introdução à Programação com Python <a href="https://cs50.harvard.edu/python/"><strong>CS50P (Harvard University)</strong></a> (Lógica de Programação, Exceções, Libraries, Manipulação de Arquivos, Expressões Regulares, e Programação Orientada a Objetos).
+        • <a href="https://cs50.harvard.edu/x/"><strong>Introdução à Ciência da Computação (CS50x from Harvard University)</strong></a>) (Algoritmos, Estruturas de Dados, Memória, Banco de Dados, SQL, Desenvolvimento Web).<br>
+        • <a href="https://cs50.harvard.edu/python/"><strong> Introdução à Programação com Python (CS50P from Harvard University)</strong></a> (Lógica de Programação, Exceções, Libraries, Manipulação de Arquivos, Expressões Regulares, e Programação Orientada a Objetos).
       </p>
     </td>
   </tr>
