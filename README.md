@@ -48,7 +48,7 @@ Meu foco está em construir **aplicações escaláveis e eficientes**, com ênfa
 
 ---
 
-## 💼 Projetos em Destaque
+## 💼 Projetos Autorais
 
 ### 1. **🎨 [Gerador de Memes](https://github.com/fabioovila/meme_generator)** 
 **Projeto Final CS50P (Harvard University)**
@@ -101,7 +101,7 @@ Extensão de produtividade para Google Chrome que simplifica o salvamento e gere
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Brasao_da_Universidade_Federal_do_Rio_Grande_do_Norte.png/200px-Brasao_da_Universidade_Federal_do_Rio_Grande_do_Norte.png" alt="UFRN Logo" width="90"/>
+      <img src="https://open.ieee.org/wp-content/uploads/Universidade-Federal-do-Rio-Grande-do-Norte-UFRN.png" alt="UFRN Logo" width="90"/>
     </td>
     <td>
       <strong>📚 Educação Formal</strong>
