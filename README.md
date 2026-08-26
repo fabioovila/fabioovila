@@ -268,18 +268,6 @@ Sistema de gerenciamento desenvolvido como trabalho final de disciplina, impleme
 
 ---
 
-## 📊 Estatísticas do Perfil
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabioovila&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioovila&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 O Que Busco
 
 Estou **aberto a oportunidades** em:
@@ -294,32 +282,8 @@ Estou **aberto a oportunidades** em:
 **Diferenciais que trago:**
 - 💪 Expertise em Python aplicado a Ciência de Dados e IA
 - 💪 Formação de qualidade com certificações Harvard
-- 💪 Experiência profissional em análise e extração de dados
 - 💪 Projetos práticos bem documentados
 - 💪 Compromisso com boas práticas e clean code
 - 💪 Capacidade de aprendizado contínuo
 - 💪 Comunicação clara e colaborativa
 
----
-
-## 📬 Entre em Contato
-
-Gostaria de conversar sobre oportunidades em Ciência de Dados, IA, projetos colaborativos ou trocar conhecimentos?
-
-| Plataforma | Link |
-|-----------|------|
-| **LinkedIn** | [linkedin.com/in/fabioovila](https://linkedin.com/in/fabioovila) |
-| **Email** | [fabioovila@gmail.com](mailto:fabioovila@gmail.com) |
-| **GitHub** | [github.com/fabioovila](https://github.com/fabioovila) |
-| **Instagram** | [@fabioovila](https://www.instagram.com/fabioovila) |
-| **Telefone** | [(84) 99407-9825](tel:+5584994079825) |
-
----
-
-<div align="center">
-
-### 🚀 Transformando dados em inteligência. Sempre aprendendo, crescendo e inovando!
-
-**"Data is the new oil, but intelligence is the new currency."** - *Fábio Vila*
-
-</div>
